@@ -1,4 +1,4 @@
-package com.ortega.sgemena.controllers;
+package com.ortega.sgemena;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
