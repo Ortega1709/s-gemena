@@ -1,4 +1,4 @@
-package com.ortega.sgemena;
+package com.ortega.sgemena.controllers;
 
 import com.ortega.sgemena.services.InfoService;
 import lombok.AllArgsConstructor;
